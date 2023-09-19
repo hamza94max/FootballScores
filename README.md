@@ -1,8 +1,8 @@
 # FootballScores
+A live android app to stay in the game with this Android app! View matches from yesterday, today, and tomorrow, track live stats, explore head-to-head records, and keep up with top scorers and transfers. The ultimate tool for football enthusiasts.
 
 
-
-## App Screen Recording
+## App Screen Shots
  <table>
   <tr>
     <th>Splash Screen </th>
@@ -75,3 +75,10 @@
 
   
 </table> 
+
+
+## Download:-
+
+[Google Play](https://play.google.com/store/apps/details?id=com.webstore.footballscores)
+
+
